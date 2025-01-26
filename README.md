@@ -22,7 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- Enable IIS (Internet Information Services)
+- Install Web Platform Installer
+- Install My Sequel and Setup Username & Password
+- Install C++ Redistributable
+- Configure Permissions & Install osticket
 
 
 <h2>Installation Steps</h2>
